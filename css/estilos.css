@@ -2,4 +2,7 @@ body{
     background-color: rgb(95, 95, 197);
     font-weight: bold;
     color: black;
+    border: dashed black;
+    margin: 10px;
+    padding: 5px;
 }
